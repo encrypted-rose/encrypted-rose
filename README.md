@@ -3,7 +3,7 @@
 
 Web Dev Student. Graphic Designer and aspiring Illustrator. Games and music are the keepers of my inner peace.
 
-## Hobbies:
+### Hobbies:
 - Video games :video_game:
   - Currently playing: Cyberpunk 2077 Ultimate Edition :robot:
 - Listening to music :notes:
