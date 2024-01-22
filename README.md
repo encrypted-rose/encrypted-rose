@@ -4,7 +4,7 @@
 
 ### About me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=1000&color=C78EF7&center=true&vCenter=true&random=false&width=435&lines=Web+Dev+Student.+Graphic+Designer+and+aspiring+Illustrator.+Games+and+music+are+the+keepers+of+my+inner+peace.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=1000&color=C78EF7&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Web+Dev+Student.+;How+veGraphic+Designer+and+aspiring+Illustrator.xingly+quick+daft+zebras+jump;Games+and+music+are+the+keepers+of+my+inner+peace.)](https://git.io/typing-svg)
 
 ### Hobbies:
 
