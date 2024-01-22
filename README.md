@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**encrypted-rose/encrypted-rose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rose Sousa :night_with_stars:
 
-Here are some ideas to get you started:
+Web Dev Student. Graphic Designer and aspiring Illustrator. Games and music are the keepers of my inner peace.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies:
+- Video games :video_game:
+  - Currently playing: Cyberpunk 2077 Ultimate Edition :robot:
+- Listening to music :notes:
+  - Obsession of the month: Pretty Patterns :milky_way:
+- Watching anime :shinto_shrine:
+  - Currently watching: Frieren: Beyond Journey's End
+
+
