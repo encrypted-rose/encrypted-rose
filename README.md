@@ -4,11 +4,9 @@
 Web Dev Student. Graphic Designer and aspiring Illustrator. Games and music are the keepers of my inner peace.
 
 ### Hobbies:
-- Video games :video_game:
+- :video_game: Video games
   - Currently playing: Cyberpunk 2077 Ultimate Edition :robot:
-- Listening to music :notes:
+- :notes: Listening to music and discovering new music
   - Obsession of the month: Pretty Patterns :milky_way:
-- Watching anime :shinto_shrine:
+- :shinto_shrine: Watching anime
   - Currently watching: Frieren: Beyond Journey's End
-
-
