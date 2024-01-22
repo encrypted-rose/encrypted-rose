@@ -1,3 +1,5 @@
+<!--- add banner image of fav things --->
+
 <h1 align="center">Rose Sousa :star2: </h1>
 
 <h2 align= "center">About me</h2>
@@ -16,5 +18,5 @@
     - Obsession of the month: Pretty Patterns :milky_way:
 </div>
 
-
+<!--- add something like spotify player or something similar--->
 
